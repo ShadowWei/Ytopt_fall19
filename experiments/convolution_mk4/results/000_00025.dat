@@ -1,0 +1,13 @@
+START TIME:1574877973
+INPUT:['a', 'a', 'c', 'a', 'a', 'a', 'a', 'b', 'a', 'b', 'dynamic', '16', '16', '3', '128', 'a', 'b', 'b', 'b', 'a', 'a', 'a', 'static', '16', '8', '1', '256']
+valid next line:
+True
+this is modline
+
+this is modline    
+
+cmd1gcc -fopenmp -DPOLYBENCH_TIME -DLARGE_DATASET -O2 -I/uufs/chpc.utah.edu/common/home/u1074259/ytopt/OpenMP_benchmark2/utilities -I/uufs/chpc.utah.edu/common/home/u1074259/ytopt/OpenMP_benchmark2/convolution-2d /uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/convolution_mk4/tmp_files/2284.c /uufs/chpc.utah.edu/common/home/u1074259/ytopt/OpenMP_benchmark2/utilities/polybench.c -o /uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/convolution_mk4/tmp_files/2284 -lm
+cmd2/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/convolution_mk4/tmp_files/2284 
+0.144341
+OUTPUT:0.144
+END TIME:1574877973

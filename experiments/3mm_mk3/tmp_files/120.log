@@ -1,0 +1,21 @@
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/3mm_mk3/tmp_files/120.c(78): warning #161: unrecognized #pragma
+    #pragma scop
+            ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/3mm_mk3/tmp_files/120.c(84): error: omp parallel is not allowed in simd loop
+            #pragma omp parallel for simd schedule(static, 2) num_threads(2)
+            ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/3mm_mk3/tmp_files/120.c(96): error: omp parallel is not allowed in simd loop
+            #pragma omp parallel for simd schedule(static, 2) num_threads(2)
+            ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/3mm_mk3/tmp_files/120.c(108): error: omp parallel is not allowed in simd loop
+  	#pragma omp parallel for simd schedule(static, 2) num_threads(2)
+  	^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/3mm_mk3/tmp_files/120.c(117): warning #161: unrecognized #pragma
+    #pragma endscop
+            ^
+
+compilation aborted for /uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/3mm_mk3/tmp_files/120.c (code 2)

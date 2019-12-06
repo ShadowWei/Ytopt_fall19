@@ -1,0 +1,29 @@
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/correlation_mk3/tmp_files/2937.c(76): warning #161: unrecognized #pragma
+    #pragma scop
+            ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/correlation_mk3/tmp_files/2937.c(79): error: unrecognized OpenMP #pragma
+      #pragma omp 
+              ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/correlation_mk3/tmp_files/2937.c(88): error: unrecognized OpenMP #pragma
+      #pragma omp 
+              ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/correlation_mk3/tmp_files/2937.c(103): error: unrecognized OpenMP #pragma
+      #pragma omp 
+              ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/correlation_mk3/tmp_files/2937.c(106): error: unrecognized OpenMP #pragma
+        #pragma omp 
+                ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/correlation_mk3/tmp_files/2937.c(115): error: unrecognized OpenMP #pragma
+      #pragma omp 
+              ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/correlation_mk3/tmp_files/2937.c(128): warning #161: unrecognized #pragma
+    #pragma endscop
+            ^
+
+compilation aborted for /uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/correlation_mk3/tmp_files/2937.c (code 2)

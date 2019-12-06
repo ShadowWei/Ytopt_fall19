@@ -1,0 +1,5 @@
+START TIME:1574876281
+INPUT:['d', 'a', 'b', 'a', 'b', 'a', 'a', 'a', 'b', 'a', 'dynamic', '1', '28', '2', '32', 'a', 'a', 'a', 'b', 'a', 'b', 'a', 'static', '1', '14', '3', '256']
+valid next line:
+False
+END TIME:1574876281

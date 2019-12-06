@@ -1,0 +1,23 @@
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/convolution_mk3/tmp_files/8041.c(67): warning #161: unrecognized #pragma
+    #pragma scop
+            ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/convolution_mk3/tmp_files/8041.c(80): warning #161: unrecognized #pragma
+    #pragma endscop
+            ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/convolution_mk3/tmp_files/8041.c(67): warning #161: *MIC* unrecognized #pragma
+    #pragma scop
+            ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/convolution_mk3/tmp_files/8041.c(80): warning #161: *MIC* unrecognized #pragma
+    #pragma endscop
+            ^
+
+ld: warning: libcoi_device.so.0, needed by /uufs/chpc.utah.edu/sys/installdir/intel/compilers_and_libraries_2018.1.163/linux/compiler/lib/intel64_lin/libioffload_target.so.5, not found (try using -rpath or -rpath-link)
+/uufs/chpc.utah.edu/sys/installdir/intel/compilers_and_libraries_2018.1.163/linux/compiler/lib/intel64_lin/libioffload_target.so.5: undefined reference to `COIPerfGetCycleFrequency@COI_1.0'
+/uufs/chpc.utah.edu/sys/installdir/intel/compilers_and_libraries_2018.1.163/linux/compiler/lib/intel64_lin/libioffload_target.so.5: undefined reference to `COIBufferAddRef@COI_1.0'
+/uufs/chpc.utah.edu/sys/installdir/intel/compilers_and_libraries_2018.1.163/linux/compiler/lib/intel64_lin/libioffload_target.so.5: undefined reference to `COIPipelineStartExecutingRunFunctions@COI_1.0'
+/uufs/chpc.utah.edu/sys/installdir/intel/compilers_and_libraries_2018.1.163/linux/compiler/lib/intel64_lin/libioffload_target.so.5: undefined reference to `COIEngineGetIndex@COI_1.0'
+/uufs/chpc.utah.edu/sys/installdir/intel/compilers_and_libraries_2018.1.163/linux/compiler/lib/intel64_lin/libioffload_target.so.5: undefined reference to `COIBufferReleaseRef@COI_1.0'
+/uufs/chpc.utah.edu/sys/installdir/intel/compilers_and_libraries_2018.1.163/linux/compiler/lib/intel64_lin/libioffload_target.so.5: undefined reference to `COIProcessWaitForShutdown@COI_1.0'

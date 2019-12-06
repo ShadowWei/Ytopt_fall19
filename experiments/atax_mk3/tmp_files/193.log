@@ -1,0 +1,8 @@
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/atax_mk3/tmp_files/193.c(66): warning #161: unrecognized #pragma
+    #pragma scop 
+            ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/atax_mk3/tmp_files/193.c(83): warning #161: unrecognized #pragma
+    #pragma endscop
+            ^
+

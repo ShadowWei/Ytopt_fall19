@@ -1,0 +1,17 @@
+#!/bin/bash -x
+#COBALT -n 1
+#COBALT -q debug-flat-quad
+#COBALT -A Performance
+#COBALT -t 30
+
+outputfile=experiments/exp-7/results/000_00036.dat
+
+ut=$(date '+%s')
+echo START TIME:$ut > experiments/exp-7/results/000_00036.dat
+echo INPUT:"['a', 'b', 'a', 'd']" >> experiments/exp-7/results/000_00036.dat
+python /uufs/chpc.utah.edu/common/home/u1074259/ytopt/problems/ploppers/executable.py --p0 a --p1 b --p2 a --p3 d >> experiments/exp-7/results/000_00036.dat
+ut=$(date '+%s')
+echo END TIME:$ut>> experiments/exp-7/results/000_00036.dat
+echo
+
+

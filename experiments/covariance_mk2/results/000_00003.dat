@@ -1,0 +1,7 @@
+START TIME:1569687145
+INPUT:['a', 'c', 'a', 'b', 'a', 'b', 'b', 'b', 'b', 'static', '8', '2', '1', '256']
+INPUT:['a', 'c', 'a', 'b', 'a', 'b', 'b', 'b', 'b', 'static', '8', '2', '1', '256']
+cmd1gcc -fopenmp -DPOLYBENCH_TIME -DLARGE_DATASET -O2 -I/uufs/chpc.utah.edu/common/home/u1074259/ytopt/OpenMP_benchmark2/utilities -I/uufs/chpc.utah.edu/common/home/u1074259/ytopt/OpenMP_benchmark2/correlation /uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/covariance_mk2/tmp_files/8494.c /uufs/chpc.utah.edu/common/home/u1074259/ytopt/OpenMP_benchmark2/utilities/polybench.c -o /uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/covariance_mk2/tmp_files/8494 -lm
+END TIME:1569687145
+cmd1gcc -fopenmp -DPOLYBENCH_TIME -DLARGE_DATASET -O2 -I/uufs/chpc.utah.edu/common/home/u1074259/ytopt/OpenMP_benchmark2/utilities -I/uufs/chpc.utah.edu/common/home/u1074259/ytopt/OpenMP_benchmark2/correlation /uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/covariance_mk2/tmp_files/1798.c /uufs/chpc.utah.edu/common/home/u1074259/ytopt/OpenMP_benchmark2/utilities/polybench.c -o /uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/covariance_mk2/tmp_files/1798 -lm
+END TIME:1569687145

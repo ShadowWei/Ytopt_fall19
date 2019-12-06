@@ -1,0 +1,13 @@
+START TIME:1575322015
+INPUT:['c', 'c', 'c', 'a', 'a', 'a', 'a', 'a', 'b', 'b', 'static', '1', '28', '2', '32', 'b', 'a', 'a', 'b', 'b', 'b', 'b', 'static', '16', '14', '2', '128']
+valid next line:
+True
+this is modline#pragma omp target teams distribute   private(j)
+
+this is modline    #pragma omp target teams distribute parallel for  schedule(static, 14) num_threads(14) 
+
+cmd1gcc -fopenmp -DPOLYBENCH_TIME -DEXTRALARGE_DATASET -O2 -I/uufs/chpc.utah.edu/common/home/u1074259/ytopt/OpenMP_benchmark2/utilities -I/uufs/chpc.utah.edu/common/home/u1074259/ytopt/OpenMP_benchmark2/convolution-2d /uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/convolution_mk4/tmp_files/1237.c /uufs/chpc.utah.edu/common/home/u1074259/ytopt/OpenMP_benchmark2/utilities/polybench.c -o /uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/convolution_mk4/tmp_files/1237 -lm
+cmd2/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/convolution_mk4/tmp_files/1237 
+0.518652
+OUTPUT:0.519
+END TIME:1575322016

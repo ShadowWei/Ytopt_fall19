@@ -1,0 +1,17 @@
+#!/bin/bash -x
+#COBALT -n 1
+#COBALT -q debug-flat-quad
+#COBALT -A Performance
+#COBALT -t 30
+
+outputfile=experiments/correlation_mk2/results/000_00015.dat
+
+ut=$(date '+%s')
+echo START TIME:$ut > experiments/correlation_mk2/results/000_00015.dat
+echo INPUT:"['c', 'c', 'a', 'a', 'a', 'a', 'a', 'a', 'b', 'dynamic', '16', '8', '2', '64']" >> experiments/correlation_mk2/results/000_00015.dat
+python /uufs/chpc.utah.edu/common/home/u1074259/ytopt/problems/correlation2/executable.py --p0 c --p1 c --p2 a --p3 a --p4 a --p5 a --p6 a --p7 a --p8 b --p9 dynamic --p10 16 --p11 8 --p12 2 --p13 64 >> experiments/correlation_mk2/results/000_00015.dat
+ut=$(date '+%s')
+echo END TIME:$ut>> experiments/correlation_mk2/results/000_00015.dat
+echo
+
+

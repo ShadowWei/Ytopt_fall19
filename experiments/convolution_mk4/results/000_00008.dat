@@ -1,0 +1,10 @@
+START TIME:1575321977
+INPUT:['b', 'd', 'c', 'a', 'b', 'b', 'c', 'b', 'a', 'b', 'static', '8', '28', '2', '128', 'b', 'a', 'b', 'b', 'a', 'a', 'a', 'static', '1', '2', '3', '32']
+valid next line:
+False
+this is modline#pragma omp  private(j)
+
+this is modline    #pragma omp 
+
+OUTPUT:9223372036854775808.000
+END TIME:1575321977

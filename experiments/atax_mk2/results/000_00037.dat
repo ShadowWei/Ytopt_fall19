@@ -1,0 +1,1784 @@
+START TIME:1569253101
+INPUT:['b', 'a', 'a', 'b', 'a', 'a', 'b', 'b', 'b', 'static', '16', '14', '1', '256']
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:None
+k:LOOP3 v:None
+k:p3 v:parallel for #p4 #p5 #p6
+k:p4 v:None
+k:p5 v:None
+k:p6 v:num_threads(#p11)
+k:p7 v:collapse(#p12)
+k:p8 v:thread_limit(#p13)
+k:p9 v:static
+k:p10 v:16
+k:p11 v:14
+k:p12 v:1
+k:p13 v:256
+Compilation stat: not equal 0/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/atax_mk2/tmp_files/7986 
+len comp stat: !=0/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/atax_mk2/tmp_files/7986 
+OUTPUT:9223372036854775808.000
+END TIME:1569253101

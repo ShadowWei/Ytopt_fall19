@@ -1,0 +1,29 @@
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/correlation_mk2/tmp_files/2304.c(76): warning #161: unrecognized #pragma
+    #pragma scop
+            ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/correlation_mk2/tmp_files/2304.c(79): error: simd clause is incompatible with directive
+      #pragma omp parallel for schedule(static, 2) simd num_threads(2)
+                                                   ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/correlation_mk2/tmp_files/2304.c(88): error: simd clause is incompatible with directive
+      #pragma omp parallel for schedule(static, 2) simd num_threads(2)
+                                                   ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/correlation_mk2/tmp_files/2304.c(103): error: simd clause is incompatible with directive
+      #pragma omp parallel for schedule(static, 2) simd num_threads(2)
+                                                   ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/correlation_mk2/tmp_files/2304.c(106): error: simd clause is incompatible with directive
+        #pragma omp parallel for schedule(static, 2) simd num_threads(2)
+                                                     ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/correlation_mk2/tmp_files/2304.c(115): error: simd clause is incompatible with directive
+      #pragma omp parallel for schedule(static, 2) simd num_threads(2)
+                                                   ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/correlation_mk2/tmp_files/2304.c(128): warning #161: unrecognized #pragma
+    #pragma endscop
+            ^
+
+compilation aborted for /uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/correlation_mk2/tmp_files/2304.c (code 2)

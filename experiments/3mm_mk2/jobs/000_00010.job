@@ -1,0 +1,17 @@
+#!/bin/bash -x
+#COBALT -n 1
+#COBALT -q debug-flat-quad
+#COBALT -A Performance
+#COBALT -t 30
+
+outputfile=experiments/3mm_mk2/results/000_00010.dat
+
+ut=$(date '+%s')
+echo START TIME:$ut > experiments/3mm_mk2/results/000_00010.dat
+echo INPUT:"['a', 'b', 'a', 'a', 'b', 'b', 'b', 'b', 'a', 'dynamic', '8', '28', '3', '64']" >> experiments/3mm_mk2/results/000_00010.dat
+python /uufs/chpc.utah.edu/common/home/u1074259/ytopt/problems/3mm2/executable.py --p0 a --p1 b --p2 a --p3 a --p4 b --p5 b --p6 b --p7 b --p8 a --p9 dynamic --p10 8 --p11 28 --p12 3 --p13 64 >> experiments/3mm_mk2/results/000_00010.dat
+ut=$(date '+%s')
+echo END TIME:$ut>> experiments/3mm_mk2/results/000_00010.dat
+echo
+
+

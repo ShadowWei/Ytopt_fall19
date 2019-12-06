@@ -1,0 +1,17 @@
+#!/bin/bash -x
+#COBALT -n 1
+#COBALT -q debug-flat-quad
+#COBALT -A Performance
+#COBALT -t 30
+
+outputfile=experiments/atax_mk3/results/000_00031.dat
+
+ut=$(date '+%s')
+echo START TIME:$ut > experiments/atax_mk3/results/000_00031.dat
+echo INPUT:"['a', 'c', 'a', 'b', 'b', 'b', 'a', 'b', 'b', 'dynamic', '8', '28', '1', '128']" >> experiments/atax_mk3/results/000_00031.dat
+python /uufs/chpc.utah.edu/common/home/u1074259/ytopt/problems/atax2/executable.py --p0 a --p1 c --p2 a --p3 b --p4 b --p5 b --p6 a --p7 b --p8 b --p9 dynamic --p10 8 --p11 28 --p12 1 --p13 128 >> experiments/atax_mk3/results/000_00031.dat
+ut=$(date '+%s')
+echo END TIME:$ut>> experiments/atax_mk3/results/000_00031.dat
+echo
+
+

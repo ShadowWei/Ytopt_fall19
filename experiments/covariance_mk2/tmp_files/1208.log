@@ -1,0 +1,16 @@
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/covariance_mk2/tmp_files/1208.c: In function ‘kernel_covariance’:
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/covariance_mk2/tmp_files/1208.c:71:50: error: expected ‘#pragma omp’ clause before ‘simd’
+     #pragma omp parallel for schedule(static, 2) simd num_threads(2)
+                                                  ^
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/covariance_mk2/tmp_files/1208.c:81:50: error: expected ‘#pragma omp’ clause before ‘simd’
+     #pragma omp parallel for schedule(static, 2) simd num_threads(2)
+                                                  ^
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/covariance_mk2/tmp_files/1208.c:84:52: error: expected ‘#pragma omp’ clause before ‘simd’
+       #pragma omp parallel for schedule(static, 2) simd num_threads(2)
+                                                    ^
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/covariance_mk2/tmp_files/1208.c:91:50: error: expected ‘#pragma omp’ clause before ‘simd’
+     #pragma omp parallel for schedule(static, 2) simd num_threads(2)
+                                                  ^
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/covariance_mk2/tmp_files/1208.c:94:52: error: expected ‘#pragma omp’ clause before ‘simd’
+       #pragma omp parallel for schedule(static, 2) simd num_threads(2)
+                                                    ^

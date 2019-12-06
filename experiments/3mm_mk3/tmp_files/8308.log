@@ -1,0 +1,33 @@
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/3mm_mk3/tmp_files/8308.c(78): warning #161: unrecognized #pragma
+    #pragma scop
+            ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/3mm_mk3/tmp_files/8308.c(81): error: simd clause is incompatible with directive
+      #pragma omp parallel for schedule(static, 2) simd num_threads(2)
+                                                   ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/3mm_mk3/tmp_files/8308.c(84): error: simd clause is incompatible with directive
+            #pragma omp parallel for schedule(static, 2) simd num_threads(2)
+                                                         ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/3mm_mk3/tmp_files/8308.c(93): error: simd clause is incompatible with directive
+      #pragma omp parallel for schedule(static, 2) simd num_threads(2)
+                                                   ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/3mm_mk3/tmp_files/8308.c(96): error: simd clause is incompatible with directive
+            #pragma omp parallel for schedule(static, 2) simd num_threads(2)
+                                                         ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/3mm_mk3/tmp_files/8308.c(105): error: simd clause is incompatible with directive
+      #pragma omp parallel for schedule(static, 2) simd num_threads(2)
+                                                   ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/3mm_mk3/tmp_files/8308.c(108): error: simd clause is incompatible with directive
+  	#pragma omp parallel for schedule(static, 2) simd num_threads(2)
+  	                                             ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/3mm_mk3/tmp_files/8308.c(117): warning #161: unrecognized #pragma
+    #pragma endscop
+            ^
+
+compilation aborted for /uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/3mm_mk3/tmp_files/8308.c (code 2)

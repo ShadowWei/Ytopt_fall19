@@ -1,0 +1,4 @@
+START TIME:1569687188
+INPUT:['b', 'a', 'c', 'b', 'b', 'a', 'b', 'a', 'b', 'static', '1', '28', '1', '128']
+cmd1gcc -fopenmp -DPOLYBENCH_TIME -DLARGE_DATASET -O2 -I/uufs/chpc.utah.edu/common/home/u1074259/ytopt/OpenMP_benchmark2/utilities -I/uufs/chpc.utah.edu/common/home/u1074259/ytopt/OpenMP_benchmark2/correlation /uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/covariance_mk2/tmp_files/8021.c /uufs/chpc.utah.edu/common/home/u1074259/ytopt/OpenMP_benchmark2/utilities/polybench.c -o /uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/covariance_mk2/tmp_files/8021 -lm
+END TIME:1569687189

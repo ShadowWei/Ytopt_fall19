@@ -1,0 +1,10 @@
+START TIME:1575321976
+INPUT:['b', 'd', 'a', 'b', 'b', 'b', 'b', 'b', 'b', 'a', 'static', '1', '14', '2', '64', 'b', 'a', 'b', 'c', 'b', 'b', 'a', 'static', '8', '4', '2', '32']
+valid next line:
+False
+this is modline#pragma omp parallel for simd schedule(static, 14) num_threads(14) private(j)
+
+this is modline    #pragma omp 
+
+OUTPUT:9223372036854775808.000
+END TIME:1575321976

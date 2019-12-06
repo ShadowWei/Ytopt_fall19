@@ -1,0 +1,21 @@
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/covariance_mk3/tmp_files/7709.c(68): warning #161: unrecognized #pragma
+    #pragma scop
+            ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/covariance_mk3/tmp_files/7709.c(71): error: simd clause is incompatible with directive
+      #pragma omp parallel for schedule(static, 28) simd 
+                                                    ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/covariance_mk3/tmp_files/7709.c(81): error: simd clause is incompatible with directive
+      #pragma omp parallel for schedule(static, 28) simd 
+                                                    ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/covariance_mk3/tmp_files/7709.c(91): error: simd clause is incompatible with directive
+      #pragma omp parallel for schedule(static, 28) simd 
+                                                    ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/covariance_mk3/tmp_files/7709.c(104): warning #161: unrecognized #pragma
+    #pragma endscop
+            ^
+
+compilation aborted for /uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/covariance_mk3/tmp_files/7709.c (code 2)

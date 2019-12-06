@@ -1,0 +1,33 @@
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/3mm_mk3/tmp_files/7786.c(78): warning #161: unrecognized #pragma
+    #pragma scop
+            ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/3mm_mk3/tmp_files/7786.c(81): error: unrecognized OpenMP #pragma
+      #pragma omp 
+              ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/3mm_mk3/tmp_files/7786.c(84): error: schedule clause is incompatible with directive
+            #pragma omp target teams distribute  schedule(dynamic, 8)
+                                                 ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/3mm_mk3/tmp_files/7786.c(93): error: unrecognized OpenMP #pragma
+      #pragma omp 
+              ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/3mm_mk3/tmp_files/7786.c(96): error: schedule clause is incompatible with directive
+            #pragma omp target teams distribute  schedule(dynamic, 8)
+                                                 ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/3mm_mk3/tmp_files/7786.c(105): error: unrecognized OpenMP #pragma
+      #pragma omp 
+              ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/3mm_mk3/tmp_files/7786.c(108): error: schedule clause is incompatible with directive
+  	#pragma omp target teams distribute  schedule(dynamic, 8)
+  	                                     ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/3mm_mk3/tmp_files/7786.c(117): warning #161: unrecognized #pragma
+    #pragma endscop
+            ^
+
+compilation aborted for /uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/3mm_mk3/tmp_files/7786.c (code 2)

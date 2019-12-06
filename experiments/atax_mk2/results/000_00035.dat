@@ -1,0 +1,1784 @@
+START TIME:1569254400
+INPUT:['b', 'c', 'b', 'a', 'b', 'a', 'a', 'b', 'a', 'static', '8', '2', '3', '256']
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+k:LOOP1 v:#pragma omp #p3
+k:LOOP2 v:#pragma omp target teams distribute #p8 #p4
+k:LOOP3 v:#pragma omp #p3
+k:p3 v:None
+k:p4 v:schedule(#p9, #p11)
+k:p5 v:None
+k:p6 v:None
+k:p7 v:collapse(#p12)
+k:p8 v:None
+k:p9 v:static
+k:p10 v:8
+k:p11 v:2
+k:p12 v:3
+k:p13 v:256
+Compilation stat: not equal 0/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/atax_mk2/tmp_files/9710 
+len comp stat: !=0/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/atax_mk2/tmp_files/9710 
+OUTPUT:9223372036854775808.000
+END TIME:1569254400

@@ -1,0 +1,16 @@
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/correlation_mk2/tmp_files/4542.c: In function ‘kernel_correlation’:
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/correlation_mk2/tmp_files/4542.c:79:50: error: expected ‘#pragma omp’ clause before ‘simd’
+     #pragma omp parallel for schedule(static, 2) simd num_threads(2)
+                                                  ^
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/correlation_mk2/tmp_files/4542.c:88:50: error: expected ‘#pragma omp’ clause before ‘simd’
+     #pragma omp parallel for schedule(static, 2) simd num_threads(2)
+                                                  ^
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/correlation_mk2/tmp_files/4542.c:103:50: error: expected ‘#pragma omp’ clause before ‘simd’
+     #pragma omp parallel for schedule(static, 2) simd num_threads(2)
+                                                  ^
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/correlation_mk2/tmp_files/4542.c:106:52: error: expected ‘#pragma omp’ clause before ‘simd’
+       #pragma omp parallel for schedule(static, 2) simd num_threads(2)
+                                                    ^
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/correlation_mk2/tmp_files/4542.c:115:50: error: expected ‘#pragma omp’ clause before ‘simd’
+     #pragma omp parallel for schedule(static, 2) simd num_threads(2)
+                                                  ^

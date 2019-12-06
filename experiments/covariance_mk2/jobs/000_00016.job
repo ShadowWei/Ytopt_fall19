@@ -1,0 +1,17 @@
+#!/bin/bash -x
+#COBALT -n 1
+#COBALT -q debug-flat-quad
+#COBALT -A Performance
+#COBALT -t 30
+
+outputfile=experiments/covariance_mk2/results/000_00016.dat
+
+ut=$(date '+%s')
+echo START TIME:$ut > experiments/covariance_mk2/results/000_00016.dat
+echo INPUT:"['a', 'a', 'a', 'a', 'a', 'a', 'b', 'a', 'b', 'static', '16', '14', '2', '256']" >> experiments/covariance_mk2/results/000_00016.dat
+python /uufs/chpc.utah.edu/common/home/u1074259/ytopt/problems/covariance2/executable.py --p0 a --p1 a --p2 a --p3 a --p4 a --p5 a --p6 b --p7 a --p8 b --p9 static --p10 16 --p11 14 --p12 2 --p13 256 >> experiments/covariance_mk2/results/000_00016.dat
+ut=$(date '+%s')
+echo END TIME:$ut>> experiments/covariance_mk2/results/000_00016.dat
+echo
+
+

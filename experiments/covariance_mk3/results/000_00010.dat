@@ -1,0 +1,6 @@
+START TIME:1570200000
+INPUT:['a', 'a', 'a', 'a', 'b', 'b', 'a', 'a', 'a', 'static', '1', '1', '1', '64']
+cmd1icc -fopenmp -DPOLYBENCH_TIME -DLARGE_DATASET -O2 -I/uufs/chpc.utah.edu/common/home/u1074259/ytopt/OpenMP_benchmark2/utilities -I/uufs/chpc.utah.edu/common/home/u1074259/ytopt/OpenMP_benchmark2/covariance /uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/covariance_mk3/tmp_files/9632.c /uufs/chpc.utah.edu/common/home/u1074259/ytopt/OpenMP_benchmark2/utilities/polybench.c -o /uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/covariance_mk3/tmp_files/9632 -lm
+37.494152
+OUTPUT:37.494
+END TIME:1570200039

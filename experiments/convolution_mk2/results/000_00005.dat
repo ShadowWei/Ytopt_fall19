@@ -1,0 +1,6 @@
+START TIME:1569424355
+INPUT:['a', 'c', 'b', 'b', 'a', 'b', 'a', 'a', 'a', 'dynamic', '8', '4', '2', '256']
+cmd1gcc -fopenmp -DPOLYBENCH_TIME -DLARGE_DATASET -O2 -I/uufs/chpc.utah.edu/common/home/u1074259/ytopt/OpenMP_benchmark2/utilities -I/uufs/chpc.utah.edu/common/home/u1074259/ytopt/OpenMP_benchmark2/convolution-2d /uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/convolution_mk2/tmp_files/376.c /uufs/chpc.utah.edu/common/home/u1074259/ytopt/OpenMP_benchmark2/utilities/polybench.c -o /uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/convolution_mk2/tmp_files/376 -lm
+0.173404
+OUTPUT:0.173
+END TIME:1569424356

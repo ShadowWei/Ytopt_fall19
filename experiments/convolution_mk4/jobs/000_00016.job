@@ -1,0 +1,17 @@
+#!/bin/bash -x
+#COBALT -n 1
+#COBALT -q debug-flat-quad
+#COBALT -A Performance
+#COBALT -t 30
+
+outputfile=experiments/convolution_mk4/results/000_00016.dat
+
+ut=$(date '+%s')
+echo START TIME:$ut > experiments/convolution_mk4/results/000_00016.dat
+echo INPUT:"['c', 'c', 'b', 'b', 'a', 'a', 'c', 'a', 'b', 'a', 'dynamic', '1', '4', '2', '32', 'b', 'b', 'b', 'b', 'a', 'b', 'b', 'dynamic', '8', '8', '2', '32']" >> experiments/convolution_mk4/results/000_00016.dat
+python /uufs/chpc.utah.edu/common/home/u1074259/ytopt/problems/convolution-2d2/executable.py --p0 c --p1 c --p2 b --p3 b --p4 a --p5 a --p6 c --p7 a --p8 b --p9 a --p10 dynamic --p11 1 --p12 4 --p13 2 --p14 32 --p15 b --p16 b --p17 b --p18 b --p19 a --p20 b --p21 b --p22 dynamic --p23 8 --p24 8 --p25 2 --p26 32 >> experiments/convolution_mk4/results/000_00016.dat
+ut=$(date '+%s')
+echo END TIME:$ut>> experiments/convolution_mk4/results/000_00016.dat
+echo
+
+

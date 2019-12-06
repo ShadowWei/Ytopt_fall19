@@ -1,0 +1,4 @@
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/convolution_mk2/tmp_files/1768.c: In function ‘kernel_conv2d’:
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/convolution_mk2/tmp_files/1768.c:69:46: error: expected ‘#pragma omp’ clause before ‘simd’
+ #pragma omp parallel for schedule(static, 1) simd 
+                                              ^

@@ -1,0 +1,7 @@
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/convolution_mk4/tmp_files/6955.c: In function ‘kernel_conv2d’:
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/convolution_mk4/tmp_files/6955.c:69:26: error: expected ‘#pragma omp’ clause before ‘simd’
+ #pragma omp parallel for simd schedule(static) num_threads(4) private(j)
+                          ^
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/convolution_mk4/tmp_files/6955.c:72:30: error: expected ‘#pragma omp’ clause before ‘simd’
+     #pragma omp parallel for simd schedule(static) num_threads(4)
+                              ^

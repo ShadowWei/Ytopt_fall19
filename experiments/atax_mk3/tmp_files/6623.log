@@ -1,0 +1,17 @@
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/atax_mk3/tmp_files/6623.c(66): warning #161: unrecognized #pragma
+    #pragma scop 
+            ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/atax_mk3/tmp_files/6623.c(68): error: unrecognized OpenMP #pragma
+      #pragma omp 
+              ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/atax_mk3/tmp_files/6623.c(73): error: unrecognized OpenMP #pragma
+      #pragma omp 
+              ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/atax_mk3/tmp_files/6623.c(83): warning #161: unrecognized #pragma
+    #pragma endscop
+            ^
+
+compilation aborted for /uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/atax_mk3/tmp_files/6623.c (code 2)

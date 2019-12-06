@@ -1,0 +1,8 @@
+START TIME:1571419734
+INPUT:['a', 'c', 'b', 'b', 'a', 'b', 'a', 'a', 'a', 'dynamic', '8', '4', '2', '256']
+['a', 'c', 'b', 'b', 'a', 'b', 'a', 'a', 'a', 'dynamic', '8', '4', '2', '256']
+hello
+BYE
+cmd1icc -fopenmp -DPOLYBENCH_TIME -DLARGE_DATASET -O2 -I/uufs/chpc.utah.edu/common/home/u1074259/ytopt/OpenMP_benchmark2/utilities -I/uufs/chpc.utah.edu/common/home/u1074259/ytopt/OpenMP_benchmark2/3mm /uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/3mm_mk3/tmp_files/4103.c /uufs/chpc.utah.edu/common/home/u1074259/ytopt/OpenMP_benchmark2/utilities/polybench.c -o /uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/3mm_mk3/tmp_files/4103 -lm
+OUTPUT:9223372036854775808.000
+END TIME:1571419735

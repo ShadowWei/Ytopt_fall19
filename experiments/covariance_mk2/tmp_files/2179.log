@@ -1,0 +1,4 @@
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/covariance_mk2/tmp_files/2179.c:20:24: fatal error: covariance.h: No such file or directory
+ #include "covariance.h"
+                        ^
+compilation terminated.

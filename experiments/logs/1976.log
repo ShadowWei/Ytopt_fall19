@@ -1,0 +1,19 @@
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/3mm_mk2/tmp_files/1976.c: In function ‘kernel_3mm’:
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/3mm_mk2/tmp_files/1976.c:81:50: error: expected ‘#pragma omp’ clause before ‘simd’
+     #pragma omp parallel for schedule(static, 2) simd num_threads(2)
+                                                  ^
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/3mm_mk2/tmp_files/1976.c:84:56: error: expected ‘#pragma omp’ clause before ‘simd’
+           #pragma omp parallel for schedule(static, 2) simd num_threads(2)
+                                                        ^
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/3mm_mk2/tmp_files/1976.c:93:50: error: expected ‘#pragma omp’ clause before ‘simd’
+     #pragma omp parallel for schedule(static, 2) simd num_threads(2)
+                                                  ^
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/3mm_mk2/tmp_files/1976.c:96:56: error: expected ‘#pragma omp’ clause before ‘simd’
+           #pragma omp parallel for schedule(static, 2) simd num_threads(2)
+                                                        ^
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/3mm_mk2/tmp_files/1976.c:105:50: error: expected ‘#pragma omp’ clause before ‘simd’
+     #pragma omp parallel for schedule(static, 2) simd num_threads(2)
+                                                  ^
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/3mm_mk2/tmp_files/1976.c:108:47: error: expected ‘#pragma omp’ clause before ‘simd’
+  #pragma omp parallel for schedule(static, 2) simd num_threads(2)
+                                               ^

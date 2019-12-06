@@ -1,0 +1,13 @@
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/convolution_mk3/tmp_files/8516.c(67): warning #161: unrecognized #pragma
+    #pragma scop
+            ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/convolution_mk3/tmp_files/8516.c(69): error: unrecognized OpenMP #pragma
+  #pragma omp 
+          ^
+
+/uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/convolution_mk3/tmp_files/8516.c(80): warning #161: unrecognized #pragma
+    #pragma endscop
+            ^
+
+compilation aborted for /uufs/chpc.utah.edu/common/home/u1074259/ytopt/experiments/convolution_mk3/tmp_files/8516.c (code 2)

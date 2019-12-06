@@ -1,0 +1,14 @@
+{
+    "acq_func": "gp_hedge",
+    "acq_optimizer": "sampling",
+    "base_estimator": "RF",
+    "exp_dir": "experiments/correlation_mk2",
+    "exp_id": "correlation_mk2",
+    "kappa": 0.0,
+    "max_evals": 1000,
+    "max_time": 60.0,
+    "n_initial_points": 10.0,
+    "patience_fac": 10.0,
+    "prob_attr": "problem",
+    "prob_path": "problems/correlation2/problem.py"
+}
