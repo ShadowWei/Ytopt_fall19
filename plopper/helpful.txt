@@ -1,0 +1,9 @@
+mpirun -np 2 python -m ytopt.search.async_search --prob_path=problems/ackley_mix/problem.py --exp_dir=experiments --prob_attr=problem --exp_id=exp-01 --max_time=60 --base_estimator='RF'
+
+
+
+sourcefile = "/home/vinu/workspace/surf/surf-ytopt/OpenMP_benchmark/atax/atax.c"
+sourcefile = "/home/vinu/workspace/surf/surf-ytopt/OpenMP_benchmark/3mm/3mm.c"
+sourcefile = "/home/vinu/workspace/surf/surf-ytopt/OpenMP_benchmark/convolution-2d/convolution-2d.c"
+sourcefile = "/home/vinu/workspace/surf/surf-ytopt/OpenMP_benchmark/datamining/covariance/covariance.c"
+sourcefile = "/home/vinu/workspace/surf/surf-ytopt/OpenMP_benchmark/datamining/correlation/correlation.c"
